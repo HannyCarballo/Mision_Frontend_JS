@@ -10,3 +10,5 @@ var frase2;
 frase2 = 'Ejemplo comillas simples';
 var frase3;
 frase3 = `Ejemplo comillas invertidas`;
+
+console.log(frase1);
