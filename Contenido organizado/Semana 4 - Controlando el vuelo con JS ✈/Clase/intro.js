@@ -23,3 +23,7 @@ console.log(numero1 == numero2);
 console.log(numero1 === numero2);
 
 console.log("********OPERADOR LÓGICO AND********\n");
+console.log(true && false);
+
+console.log("********OPERADOR LÓGICO OR********\n");
+console.log(true || false);
