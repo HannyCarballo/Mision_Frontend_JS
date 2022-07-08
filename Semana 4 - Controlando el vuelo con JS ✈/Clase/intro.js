@@ -11,6 +11,13 @@ frase1 = "Ejemplo comillas dobles";
 var frase2;
 frase2 = 'Ejemplo comillas simples';
 var frase3;
-frase3 = `Ejemplo comillas invertidas`;
+frase3 = `Ejemplo comillas ${numero2} invertidas`;
 
 console.log(frase1 + "\n" + frase2 + "\n" + frase3);
+
+console.log("********CONDICIONALES********\n");
+console.log(numero1>numero2);
+console.log(numero1<numero2);
+console.log(numero1 != numero2);
+console.log(numero1 == numero2);
+console.log(numero1 === numero2);
