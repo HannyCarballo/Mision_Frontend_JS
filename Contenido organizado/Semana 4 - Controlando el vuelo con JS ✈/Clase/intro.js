@@ -38,3 +38,6 @@ console.log(listaNum);
 
 let listaPal = ["Explorer","MissionCommander","innovaccion","Launch X"];
 console.log(listaPal);
+
+let name = "Hanny";
+console.log(name[2]);
