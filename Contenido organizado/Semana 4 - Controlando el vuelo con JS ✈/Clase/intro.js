@@ -42,3 +42,13 @@ console.log(listaPal);
 let name = "Hanny";
 console.log(name[2]);
 console.log(name.length);
+
+console.log("********OBJETOS********\n");
+let explorer = {
+    nombre: "Nombre del explorer",
+    email:"email@innovaccion.mx",
+    numReg: 12345,
+    mision: "FrontEnd",
+    proyectos: ["Abogabor", "Pasteleria", "Taqueria", "Vacunacion"]
+}
+console.log(explorer);
