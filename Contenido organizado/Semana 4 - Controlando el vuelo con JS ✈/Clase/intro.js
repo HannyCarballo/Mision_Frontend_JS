@@ -35,3 +35,6 @@ console.log(listaNum[0]);
 listaNum.push(8);
 listaNum.push(9);
 console.log(listaNum);
+
+let listaPal = ["Explorer","MissionCommander","innovaccion","Launch X"];
+console.log(listaPal);
