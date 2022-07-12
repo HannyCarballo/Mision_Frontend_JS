@@ -41,4 +41,4 @@ console.log(listaPal);
 
 let name = "Hanny";
 console.log(name[2]);
-console.log(name.length());
+console.log(name.length);
