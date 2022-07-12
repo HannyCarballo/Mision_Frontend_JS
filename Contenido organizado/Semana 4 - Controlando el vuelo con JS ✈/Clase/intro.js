@@ -28,5 +28,6 @@ console.log(true && false);
 console.log("********OPERADOR LÓGICO OR********\n");
 console.log(true || false);
 
+console.log("********ARREGLOS********\n");
 let listaNum = [2,3,4,5,6,7];
 console.log(listaNum[0]);
