@@ -49,6 +49,7 @@ let explorer = {
     email:"email@innovaccion.mx",
     numReg: 12345,
     mision: "FrontEnd",
-    proyectos: ["Abogabor", "Pasteleria", "Taqueria", "Vacunacion"]
+    proyectos: ["Abogabot", "Pasteleria", "Taqueria", "Vacunacion"]
 }
 console.log(explorer);
+console.log(explorer.email);
